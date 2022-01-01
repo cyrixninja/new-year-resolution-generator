@@ -4,7 +4,7 @@ import base64
 import streamlit as st
 
 
-openai.api_key = "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" #openAI  API Key
+openai.api_key = "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" #openAI  API Key
 
 st.title("New Year Resolution Generator")
 def get_base64(bin_file):
